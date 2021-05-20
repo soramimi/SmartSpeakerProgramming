@@ -1,0 +1,6 @@
+*.user
+*.o
+_bin/
+tadaima/tadaima
+okaeri/okaeri
+server.h
